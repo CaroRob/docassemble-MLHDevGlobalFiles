@@ -1,0 +1,2 @@
+Contains static files that are used in every interview on MassLegalHelp Docassemble Development server: da-dev.masslegalhelp.org
+For example a global javascript file that show page ids for debugging interviews.
